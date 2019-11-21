@@ -14,8 +14,7 @@
 4.之後，把網站內容拖曳到 repository 目錄，並勾選 Commit changes。  
   注：請確定目錄內有 index.html 檔案。  
     
-5.現在讓瀏覽器連到 username.github.io 來看看你的網站。例如你的用戶名字是 chrisdavidmills，就連到 chrisdavidmills.github.io。  
-  http://chrisdavidmills.github.io/  
+5.現在讓瀏覽器連到 username.github.io 來看看你的網站。例如你的用戶名字是 chrisdavidmills，就連到 [chrisdavidmills.github.io](http://chrisdavidmills.github.io/ "chrisdavidmills.github.io")。  
   注：讓網站上線需要一點時間。如果網站沒有馬上運行，稍等一段時間後再試一次。  
   
 想多理解的話，請參考 [GitHub Pages Help](https://help.github.com/categories/github-pages-basics/ "GitHub Pages Help")。  
