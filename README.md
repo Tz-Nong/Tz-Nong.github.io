@@ -4,7 +4,7 @@
 透過 GitHub 發布  
 來看看把網站用 Github Pages 發佈多簡單。  
   
-1.首先註冊 GitHub 並驗證電子郵件。  
+1.首先註冊 [GitHub](https://github.com/ "GitHub") 並驗證電子郵件。  
   https://github.com/  
 2.接著針對要上傳的檔案建立一個 repository。  
   https://github.com/new  
